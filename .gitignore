@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Entornos virtuales
+vacaciones-env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de logs
+*.log
+
+# Archivos Excel
+*.xlsx
+
